@@ -1,0 +1,24 @@
+h1{
+    color: rebeccapurple
+}
+*{
+    border:solid
+}
+
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content:space-between
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
